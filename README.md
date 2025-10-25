@@ -1,6 +1,6 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://mineperry.com/githubs" alt="Banner" width="100%">
+  <img src="https://mineperry.com/github" alt="Banner" width="100%">
 </p>
 <!-- Typing Animation -->
 <h2 align="center">
