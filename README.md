@@ -1,6 +1,6 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://mineperry.com/github/index.php?v=4" alt="Banner" width="100%">
+  <img src="https://mineperry.com/github/index.php?v=7608" alt="Banner" width="100%">
 </p>
 
 
