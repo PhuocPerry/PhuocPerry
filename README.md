@@ -1,6 +1,6 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Z2Jhbm5lcnx8MHx8fHwxNjk4MzYxNjU0&ixlib=rb-4.0.3&q=80&w=1080" alt="Banner" width="100%">
+  <!--img src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Z2Jhbm5lcnx8MHx8fHwxNjk4MzYxNjU0&ixlib=rb-4.0.3&q=80&w=1080" alt="Banner" width="100%"-->
 </p>
 
 <!-- Typing Animation -->
