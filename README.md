@@ -1,11 +1,7 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://mineperry.com/github" alt="Banner" width="100%">
+  <img src="https://mineperry.com/github/banner.php" alt="Banner" width="100%">
 </p>
-<!-- Typing Animation -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=00FFAA&width=600&lines=Hi,+I'm+Jes;Welcome+to+My+GitHub;Let's+Build+Something+Awesome!" alt="Typing SVG">
-</h2>
 
 ---
 
