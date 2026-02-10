@@ -1,4 +1,4 @@
-<!-- Gradient Banner -->
+<!-- Gradient Banner1 -->
 <p align="center">
   <img src="https://mineperry.com/github/index.php?v=v3817" alt="Banner" width="100%">
 </p>
